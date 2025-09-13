@@ -31,7 +31,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-blue-100 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Organisasi Siswa Intra Sekolah periode 2025/2026 - Membangun masa depan bersama dengan semangat dan dedikasi
+            DKVU BC periode 2025/2026 - Membangun masa depan bersama dengan semangat dan dedikasi
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
