@@ -57,6 +57,26 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        school: {
+          blue: "hsl(var(--school-blue))",
+          "blue-light": "hsl(var(--school-blue-light))",
+          teal: "hsl(var(--school-teal))",
+          "teal-light": "hsl(var(--school-teal-light))",
+        },
+      },
+      backgroundImage: {
+        "gradient-hero": "var(--gradient-hero)",
+        "gradient-card": "var(--gradient-card)",
+        "gradient-section": "var(--gradient-section)",
+      },
+      boxShadow: {
+        "card": "var(--shadow-card)",
+        "card-hover": "var(--shadow-card-hover)",
+        "hero": "var(--shadow-hero)",
+      },
+      transitionTimingFunction: {
+        "smooth": "cubic-bezier(0.4, 0, 0.2, 1)",
+        "spring": "cubic-bezier(0.34, 1.56, 0.64, 1)",
       },
       borderRadius: {
         lg: "var(--radius)",
