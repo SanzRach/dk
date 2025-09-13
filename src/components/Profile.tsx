@@ -13,11 +13,11 @@ const Profile = () => {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Profil OSIS
+            Profil Kelas
           </h2>
           <div className="w-24 h-1 bg-gradient-hero mx-auto mb-8"></div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            OSIS SMK Link and Match adalah organisasi siswa yang berdedikasi untuk mengembangkan 
+            XI DKV BC adalah kelas yang berdedikasi untuk mengembangkan 
             potensi, kreativitas, dan kepemimpinan siswa melalui berbagai program inovatif dan 
             kegiatan yang bermanfaat bagi seluruh komunitas sekolah.
           </p>

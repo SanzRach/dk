@@ -26,7 +26,7 @@ const Footer = () => {
   const contactInfo = [
     { icon: MapPin, text: 'Jl. Pendidikan No. 123, Jakarta Selatan' },
     { icon: Phone, text: '+62 21 1234 5678' },
-    { icon: Mail, text: 'info@osissmklinkandmatch.sch.id' },
+    { icon: Mail, text: 'info@xidkvbc.sch.id' },
   ];
 
   const socialLinks = [
@@ -47,7 +47,7 @@ const Footer = () => {
                 <span className="text-white font-bold text-xl">OS</span>
               </div>
               <div>
-                <h3 className="text-2xl font-bold">OSIS SMK Link and Match</h3>
+                <h3 className="text-2xl font-bold">XI DKV BC</h3>
                 <p className="text-blue-200">Periode 2025/2026</p>
               </div>
             </div>
@@ -130,7 +130,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-white/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-blue-100 text-center md:text-left mb-4 md:mb-0">
-            © 2025 OSIS SMK Link and Match. All rights reserved.
+            © 2025 XI DKV BC. All rights reserved.
           </p>
           
           <div className="flex items-center space-x-6">

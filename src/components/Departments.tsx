@@ -49,7 +49,7 @@ const Departments = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-hero mx-auto mb-8"></div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            OSIS kami memiliki berbagai bidang kegiatan yang dirancang untuk mengembangkan 
+            XI DKV BC memiliki berbagai bidang kegiatan yang dirancang untuk mengembangkan 
             potensi siswa dalam berbagai aspek kehidupan.
           </p>
         </div>

@@ -8,7 +8,7 @@ const News = () => {
     {
       id: 1,
       title: 'Lomba Kreativitas Siswa Tingkat Nasional 2025',
-      excerpt: 'Tim OSIS SMK Link and Match berhasil meraih juara 1 dalam kompetisi kreativitas siswa tingkat nasional dengan inovasi teknologi pendidikan.',
+      excerpt: 'Tim XI DKV BC berhasil meraih juara 1 dalam kompetisi kreativitas siswa tingkat nasional dengan inovasi teknologi pendidikan.',
       image: newsImage1,
       date: '15 Januari 2025',
       category: 'Prestasi',
@@ -28,7 +28,7 @@ const News = () => {
     {
       id: 3,
       title: 'Program Bakti Sosial untuk Masyarakat',
-      excerpt: 'OSIS mengadakan program bakti sosial dengan memberikan bantuan kepada masyarakat sekitar dan mengajarkan pentingnya kepedulian sosial.',
+      excerpt: 'XI DKV BC mengadakan program bakti sosial dengan memberikan bantuan kepada masyarakat sekitar dan mengajarkan pentingnya kepedulian sosial.',
       image: newsImage1,
       date: '8 Januari 2025',
       category: 'Sosial',
@@ -38,7 +38,7 @@ const News = () => {
     {
       id: 4,
       title: 'Workshop Digital Marketing untuk Siswa',
-      excerpt: 'Pelatihan digital marketing yang diselenggarakan OSIS bertujuan membekali siswa dengan keterampilan yang relevan dengan era digital.',
+      excerpt: 'Pelatihan digital marketing yang diselenggarakan XI DKV BC bertujuan membekali siswa dengan keterampilan yang relevan dengan era digital.',
       image: newsImage2,
       date: '5 Januari 2025',
       category: 'Workshop',
@@ -58,7 +58,7 @@ const News = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-hero mx-auto mb-8"></div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-            Update terbaru tentang kegiatan, prestasi, dan program-program OSIS SMK Link and Match.
+            Update terbaru tentang kegiatan, prestasi, dan program-program XI DKV BC.
           </p>
         </div>
 

@@ -48,7 +48,7 @@ const Navigation = () => {
               <span className="text-primary-foreground font-bold">OS</span>
             </div>
             <span className={isScrolled ? 'text-foreground' : 'text-primary-foreground'}>
-              OSIS SMK Link and Match
+              XI DKV BC
             </span>
           </button>
 

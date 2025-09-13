@@ -6,23 +6,23 @@ const Members = () => {
   const members = [
     {
       name: 'Ferdinand Alexander Cahyadi',
-      position: 'Ketua OSIS',
+      position: 'Ketua Kelas',
       image: memberImage,
       description: 'Memimpin dengan visi untuk menciptakan lingkungan sekolah yang kondusif dan inovatif.',
       social: {
         linkedin: '#',
-        email: 'ferdinand@osis.sch.id',
+        email: 'ferdinand@xidkvbc.sch.id',
         instagram: '@ferdinand_alex'
       }
     },
     {
       name: 'Sarah Putri Maharani',
-      position: 'Wakil Ketua OSIS',
+      position: 'Wakil Ketua Kelas',
       image: memberImage,
       description: 'Berpengalaman dalam mengorganisir acara besar dan mengkoordinasi berbagai bidang.',
       social: {
         linkedin: '#',
-        email: 'sarah@osis.sch.id',
+        email: 'sarah@xidkvbc.sch.id',
         instagram: '@sarah_putri'
       }
     },
@@ -33,7 +33,7 @@ const Members = () => {
       description: 'Bertanggung jawab dalam dokumentasi dan administrasi organisasi.',
       social: {
         linkedin: '#',
-        email: 'rizki@osis.sch.id',
+        email: 'rizki@xidkvbc.sch.id',
         instagram: '@rizki_pratama'
       }
     },
@@ -44,7 +44,7 @@ const Members = () => {
       description: 'Mengelola keuangan organisasi dengan transparansi dan akuntabilitas tinggi.',
       social: {
         linkedin: '#',
-        email: 'dinda@osis.sch.id',
+        email: 'dinda@xidkvbc.sch.id',
         instagram: '@dinda_ayu'
       }
     },
@@ -55,7 +55,7 @@ const Members = () => {
       <div className="container mx-auto px-4 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-            Pengurus OSIS
+            Pengurus Kelas
           </h2>
           <div className="w-24 h-1 bg-gradient-hero mx-auto mb-8"></div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">

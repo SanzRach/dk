@@ -26,7 +26,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold text-primary-foreground mb-6 leading-tight">
             Selamat Datang di
             <span className="block bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent">
-              OSIS SMK Link and Match
+              XI DKV BC
             </span>
           </h1>
           
