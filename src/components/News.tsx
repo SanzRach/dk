@@ -41,7 +41,7 @@ const News = () => {
       excerpt: 'Pelatihan digital marketing yang diselenggarakan XI DKV BC bertujuan membekali siswa dengan keterampilan yang relevan dengan era digital.',
       image: newsImage2,
       date: '5 Januari 2025',
-      category: 'Workshop''Sosial',
+      category: 'Workshop','Sosial',
       views: 950,
       featured: false,
     },
